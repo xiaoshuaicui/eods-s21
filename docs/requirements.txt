@@ -1,0 +1,24 @@
+python=3.8.5
+pandas=1.2.0
+scikit-learn=0.23.2
+ipython
+ipykernel
+ipywidgets
+statsmodels
+seaborn
+spacy
+nltk
+beautifulsoup4
+pandas-datareader
+xlrd
+twython
+sqlalchemy
+pymongo
+nbformat
+plotly
+pillow
+pandasql
+
+# need to install from conda-forge
+#mlxtend
+#imbalanced-learn
