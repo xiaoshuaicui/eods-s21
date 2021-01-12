@@ -1,5 +1,7 @@
 # EODS-F21 Week 1 Quiz
 
+Note: Below, the `$` indicates the commandline. You don't need to enter this character. You're terminal prompt may end in something else, like a '>'.
+
 ## Part 1: Install git and Clone Course Repo
 
 1. If you don't already have git installed, download and install git from https://git-scm.com/downloads
@@ -9,9 +11,8 @@
     - MacOS: Command+Space -> "Terminal"
     - Linux: Terminal
 
-3.   Navigate to a folder where you keep your projects
+3.   Navigate to a folder where you keep your projects. Example:
 
-        # Example
         $ cd /home/bgibson/proj/
 
 4.  Clone the course repo from https://github.com/bryanrgibson/eods-s21
